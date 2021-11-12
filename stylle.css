@@ -20,9 +20,13 @@ a:hover {
     color: white;
  }
 
-.banner-home {
+.banner-home { 
+    
+text-align: end;
     position: absolute;
  left:50%;
  transform: translateX(-25%);
 
 }
+
+
